@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository for my personal portfolio website.
 
-🌐 **Live Site**: [https://<your-github-username>.github.io/<repository-name>/](https://<your-github-username>.github.io/<repository-name>/)
+🌐 **Live Site**: [https://github.com/Tallapalli-Harini/Harini-portfolio]
 
 ## 📄 About
 
@@ -15,5 +15,4 @@ Built with:
 - Light & Dark Mode support
 - Responsive Design
 
-## 📁 Project Structure
 
