@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub repository for my personal portfolio website.
 
-🌐 **Live Site**: [https://github.com/Tallapalli-Harini/Harini-portfolio]
+🌐 **Live Site**: [https://harini-portfolio-project1.lovable.app]
 
 ## 📄 About
 
